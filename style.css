@@ -168,7 +168,7 @@ iframe{
   height: 400px;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 400px) {
   coastalbody{
     transition: all 2s;
     display: flex;
